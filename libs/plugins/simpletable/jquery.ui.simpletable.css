@@ -1,0 +1,27 @@
+
+
+.ui-widget-simpletable-cmp{
+    /*border-collapse: collapse;
+    */
+    border-spacing: 0px;
+    border:1px solid #1d5987;
+    text-align: center;
+    margin: auto;
+}
+.ui-widget-simpletable-header-cmp{
+    background-color: #5c9ccc;
+    height: 50px;
+    width: auto;
+    border:1px solid #5c9ccc;
+    font-family: cursive;
+}
+.ui-widget-simpletable-tr-cmp{
+    background-color: #f5f8f9;
+    border-bottom:1px solid #5c9ccc;
+    height: 40px;
+    font-family: sans-serif;
+    cursor: hand;
+}
+.ui-widget-simpletable-houre-cmp{
+    background-color: #ff0000;
+}
